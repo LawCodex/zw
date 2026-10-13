@@ -23,7 +23,7 @@ sites (Parliament of Zimbabwe, government portals) were unreachable. Retrieved 2
 ```
 constitution/constitution-of-zimbabwe-2013-consolidated.md   current text (as amended up to 28 July 2026)
 constitution/...                                             historical texts and amendment Acts
-constitution/translations/constitution-2013-<language>.md    official translations (language: ISO 639 code)
+constitution/translations/constitution-2013-<language>.md    translations (language: ISO 639 code)
 acts/<slug>.md                                               one file per Veritas document (version in the title)
 ```
 
