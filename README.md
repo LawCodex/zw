@@ -5,7 +5,7 @@ Part of [LawCodex](https://github.com/LawCodex): the legislation of every countr
 Legislation of Zimbabwe, in **English**, from **Veritas Zimbabwe** (https://www.veritaszim.net), the
 non-governmental legal-information trust that has published Zimbabwean legislation online for two decades:
 the **Constitution of Zimbabwe (2013) consolidated to 28 July 2026**, earlier constitutional texts, the
-Constitution's official translations into 13 other official languages, and the ~360 Acts listed in Veritas's
+Constitution's translations into 13 other official languages of Zimbabwe, and the ~360 Acts listed in Veritas's
 "Acts" section (principal Acts — many in several successive consolidated versions —, amendment Acts, Finance and
 Appropriation Acts, and a few statutory instruments). Veritas is a reputable **non-official** source; the official
 sites (Parliament of Zimbabwe, government portals) were unreachable. Retrieved 2026-10-13.
